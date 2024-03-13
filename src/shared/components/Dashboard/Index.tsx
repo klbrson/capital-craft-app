@@ -4,8 +4,8 @@ import { Button, Container } from "@mui/material";
 const Dashboard = () => {
 	return (
 		<div>
-			<header className="App-header">
-				<Container maxWidth="lg">
+			{/* <header className="App-header"> */}
+				{/* <Container maxWidth="lg"> */}
 					<p>
 						Esasdasdit <code>src/App.tsx</code> and save to reload.
 					</p>
@@ -17,7 +17,7 @@ const Dashboard = () => {
 						>
 						Learn React
 					</a>
-				</Container>
+				{/* </Container> */}
 				<Container maxWidth="lg">
 					<Button variant="text">Text</Button>
 					<Button variant="contained" color='success'>Contained</Button>
@@ -28,7 +28,7 @@ const Dashboard = () => {
 		
 				</Container>
 				
-			</header>
+			{/* </header> */}
 		</div>
 	)
 }
