@@ -1,5 +1,5 @@
-import Dashboard from "../../shared/components/Dashboard/Index";
-import LayoutBase from "../../shared/layouts/Base";
+import Dashboard from "../../components/Dashboard/Index";
+import LayoutBase from "../../layouts/MainLayout";
 
 const Home = () => {
 	return (

@@ -1,5 +1,5 @@
 import { Typography } from "@mui/material";
-import LayoutBase from "../../shared/layouts/Base";
+import LayoutBase from "../../layouts/MainLayout";
 
 const Invest = () => {
 	return(
